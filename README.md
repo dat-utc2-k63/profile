@@ -30,7 +30,7 @@ Decide your mind from now on 💻
 
 </details>
 
-<details>
+<details>Ư
     <summary>Github Stats</summary>
     </p>
 
@@ -49,27 +49,27 @@ Decide your mind from now on 💻
 <div style="display: flex; justify-content: flex-start;">
 
   <!-- GMAIL -->
-  <a href="mailto:tridonguyen.dev@gmail.com" title="Send Email" style="padding-right: 10px;">
+  <a href="#" title="Send Email" style="padding-right: 10px;">
     <img src="assets/logo/Gmail.png" width="45" alt="Email" />
   </a>
 
   <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/tridonguyen/" title="Redirect to LinkedIn" style="padding-right: 10px;">
+  <a href="#" title="Redirect to LinkedIn" style="padding-right: 10px;">
     <img src="assets/logo/LinkedIn.png" width="45" alt="LinkedIn" />
   </a>
   
   <!-- FACEBOOK -->
-  <a href="https://www.facebook.com/trido392/" title="Redirect to Facebook" style="padding-right: 10px;">
+  <a href="#" title="Redirect to Facebook" style="padding-right: 10px;">
     <img src="assets/logo/Facebook.png" width="45" alt="Facebook" />
   </a>
 
   <!-- PLAY STORE -->
-  <a href="https://play.google.com/store/apps/developer?id=Langhance" title="Redirect to Google Play" style="padding-right: 10px;">
+  <a href="#" title="Redirect to Google Play" style="padding-right: 10px;">
     <img src="assets/logo/GooglePlay.png" width="45" alt="Google Play" />
   </a>
 
   <!-- TELEGRAM -->
-  <a href="https://t.me/tridonguyen" title="Redirect to Telegram" style="padding-right: 10px;">
+  <a href="#" title="Redirect to Telegram" style="padding-right: 10px;">
     <img src="assets/logo/Telegram.png" width="45" alt="Telegram" />
   </a>
 
