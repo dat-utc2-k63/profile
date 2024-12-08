@@ -3,7 +3,7 @@
 <div align="start">
  
 ## Hi👋, I'm `Nguyen Thanh Dat`
-A Passionate Software Engineer writing `Awesome Apps` since 2020 ✅. I've working with ***Spring Boot*** and many other technologies 💻
+Decide your mind from now on 💻
 
 </div>
 
